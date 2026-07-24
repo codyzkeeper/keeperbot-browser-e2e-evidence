@@ -1,0 +1,8 @@
+{
+  "head": "18a2126ffc42a7d31f1bfa9a160bb840631034b5",
+  "scenarios": [
+    "desktop happy path",
+    "mobile incomplete completed fail-closed"
+  ],
+  "evidenceRoot": "/Users/codyz/.openclaw-work/repos/keeperbot-browser-e2e-evidence/algo/1053/18a2126ffc42a7d31f1bfa9a160bb840631034b5"
+}
